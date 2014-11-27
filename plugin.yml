@@ -1,0 +1,6 @@
+name: Command_Log
+version: 1.1
+main: me.MnMaxon.CommandLog.Main
+commands:
+   Clog:
+      description: Displays command log
